@@ -1,3 +1,9 @@
+![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-Free-lightgrey)
+
 # 🌐 Dummy Project Website PHP + MySQL
 
 Website dummy portfolio berbasis PHP Native dan MySQL dengan sistem Multi Role (Admin & Editor).  
@@ -64,3 +70,8 @@ Free to use for learning and portfolio purposes.
 ---
 
 ## 📂 Struktur Folder
+config/ admin/ editor/ assets/ index.php login.php database.sql
+
+
+---
+
